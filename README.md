@@ -1,6 +1,6 @@
-# madek-instance
+# Madek hosting template
 
-## config
+This is a template to set up a [Madek](https://zhdk.ch/madek) server,
+providing a web-based media archive.
 
-- global config in `group_vars/madek.yml`
-- per-host config in `host_vars/madek.example.com.yml`
+## [Read the Guide](https://github.com/Madek/madek-instance/blob/master/GUIDE.md)
